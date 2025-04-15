@@ -54,3 +54,4 @@ arduino/tools/
 *.a
 *.so
 *.dylib
+.qodo
